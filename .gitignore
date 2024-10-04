@@ -1,0 +1,3 @@
+# Rust target directory
+target/
+.env
